@@ -3,7 +3,7 @@
 ## Brief
 This is a simple quote generator made using Markov chains.  
 The model is trained of a dataset provided by http://thewebminer.com so most of the credit goes to them.  
-Background images are retrieved from Unsplash but the program could easily be adapted to load iamges locally.   
+Background images are retrieved from Unsplash but the program could easily be adapted to load images locally.   
 
 ## Installation
 ```
